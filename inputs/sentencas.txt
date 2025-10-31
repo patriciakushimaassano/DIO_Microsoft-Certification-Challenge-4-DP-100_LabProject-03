@@ -1,0 +1,21 @@
+# Exemplos de Sentenças (perguntas) que o chatbot (a IA generativa) analisaria, com base nos PDFs anexados na seção "Add your data" presente no Azure AI Foundry / [Nome do Projeto] / Playgrounds / Chat playground
+
+# Sentenças de Exemplo para o TCC (Análises Estatísticas para IA)
+
+# Perguntas Gerais (Conceitos)
+Qual a definição de 'overfitting' e como os livros 'Introduction to Machine Learning with Python' e 'Aprendizagem de Maquina: Abordagem Estatística' sugerem tratá-lo?
+Quais são as principais métricas de avaliação para modelos de classificação mencionadas nos documentos?
+Baseado no livro 'Data Science for Business', qual a importância da "compreensão do negócio" (business understanding) antes de iniciar a modelagem preditiva?
+
+# Perguntas Específicas (Técnicas)
+Descreva o processo de 'feature engineering' conforme apresentado em 'Applied Predictive Modeling'.
+Como o livro de Izbicki ('Aprendizagem de Maquina: Abordagem Estatística') explica o Teorema de Bayes e sua aplicação em Machine Learning?
+Qual a diferença entre regularização L1 (Lasso) e L2 (Ridge) segundo os PDFs?
+
+# Perguntas Comparativas
+Compare a abordagem de árvores de decisão (Decision Trees) no 'ML_Cookbook' com a abordagem em 'Introduction to Machine Learning with Python'.
+Quais técnicas de redução de dimensionalidade (como PCA) são citadas nos arquivos PDF?
+
+# Perguntas Práticas (Python)
+Quais bibliotecas Python são recomendadas para implementar algoritmos de Machine Learning, com base nos arquivos 'ML_Python.pdf' e 'ML_Cookbook.pdf'?
+Mostre um exemplo de como 'Introduction to Machine Learning with Python' sugere o uso de 'pipelines' (scikit-learn).
