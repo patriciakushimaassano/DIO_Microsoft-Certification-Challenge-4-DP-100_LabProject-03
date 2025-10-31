@@ -17,7 +17,7 @@ O resultado é um modelo de assistência virtual personalizado, focado em um con
 
 O cenário simulado é o de um estudante de Engenharia de Software em fase de elaboração do Trabalho de Conclusão de Curso (TCC), cujo tema é "Análises Estatísticas Aprofundadas para a Ciência de Dados e Inteligência Artificial".
 
-Os documentos PDF utilizados como base de conhecimento (disponíveis no diretório inputs/PDFs) incluem títulos como:
+Os documentos PDF utilizados como base de conhecimento (disponíveis no diretório PDFs) incluem títulos como:
 * Applied Predictive Modelling R.pdf
 * Aprendizagem Maquina_Abordagem Estatística__Izbicki.pdf
 * Data Science for Business.pdf
@@ -88,7 +88,7 @@ Este é o passo central, onde os dados e o modelo são conectados.
 1.  Ainda na tela do Chat Playground, abaixo da configuração do modelo, clique na aba **"Adicionar seus dados (pré visualização)"** ou **"Add your data (preview)"**.
 2.  Clique em **"+ Adicionar dados"**.
 3.  **Fonte de Dados:** No assistente, selecione **"Carregar arquivos" (Upload files)**.
-4.  **Carregar os PDFs:** Arraste ou selecione todos os PDFs do TCC (os 8+ arquivos disponíveis no diretório inputs/PDFs).
+4.  **Carregar os PDFs:** Arraste ou selecione todos os PDFs do TCC (os 8+ arquivos disponíveis no diretório PDFs).
 5.  **Recurso do AI Search:** O Azure *precisa* de um **Azure AI Search** para indexar os PDFs. O assistente solicitará que a escolha de um:
     * Crie um novo recurso do AI Search (plano Gratuito ou Básico). Dê um nome a ele (ex: `ai-search-tcc-dp100`).
     * Marque a caixa de confirmação de custos.
